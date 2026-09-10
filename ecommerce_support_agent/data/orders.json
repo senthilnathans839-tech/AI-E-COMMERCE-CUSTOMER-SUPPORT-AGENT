@@ -1,0 +1,35 @@
+[
+  {
+    "order_id": "ORD5001",
+    "customer_email": "arun@example.com",
+    "product_id": "P1001",
+    "product_name": "Aroma Pro Wireless Earbuds",
+    "quantity": 1,
+    "order_date": "2026-08-28",
+    "status": "Shipped",
+    "expected_delivery": "2026-09-10",
+    "tracking_id": "TRK998877"
+  },
+  {
+    "order_id": "ORD5002",
+    "customer_email": "arun@example.com",
+    "product_id": "P1004",
+    "product_name": "TravelLite Backpack 35L",
+    "quantity": 1,
+    "order_date": "2026-09-01",
+    "status": "Delivered",
+    "expected_delivery": "2026-09-05",
+    "tracking_id": "TRK998812"
+  },
+  {
+    "order_id": "ORD5003",
+    "customer_email": "priya@example.com",
+    "product_id": "P1002",
+    "product_name": "UrbanFit Running Shoes",
+    "quantity": 1,
+    "order_date": "2026-09-03",
+    "status": "Processing",
+    "expected_delivery": "2026-09-12",
+    "tracking_id": null
+  }
+]

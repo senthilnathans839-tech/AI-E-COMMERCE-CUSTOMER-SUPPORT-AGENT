@@ -1,0 +1,7 @@
+# Open-source stack — no paid API keys required
+langchain==0.3.7
+langchain-community==0.3.7
+langchain-ollama==0.2.0      # talks to a local Ollama server (open-source LLMs: llama3.1, mistral, qwen2.5, etc.)
+chromadb==0.5.20             # open-source vector DB for semantic memory / RAG
+sentence-transformers==3.2.1 # open-source embeddings (all-MiniLM-L6-v2)
+pydantic==2.9.2

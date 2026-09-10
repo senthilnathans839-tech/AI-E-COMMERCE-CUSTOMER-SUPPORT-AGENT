@@ -1,0 +1,38 @@
+[
+  {
+    "product_id": "P1001",
+    "name": "Aroma Pro Wireless Earbuds",
+    "category": "Electronics",
+    "price": 2499,
+    "stock": 42,
+    "description": "Bluetooth 5.3 wireless earbuds with active noise cancellation and 30-hour battery life.",
+    "return_window_days": 10
+  },
+  {
+    "product_id": "P1002",
+    "name": "UrbanFit Running Shoes",
+    "category": "Footwear",
+    "price": 3199,
+    "stock": 0,
+    "description": "Lightweight breathable running shoes with cushioned sole, available in sizes 6-11.",
+    "return_window_days": 15
+  },
+  {
+    "product_id": "P1003",
+    "name": "SmartHome LED Bulb (4-Pack)",
+    "category": "Home & Living",
+    "price": 899,
+    "stock": 120,
+    "description": "WiFi-enabled color-changing LED bulbs compatible with Alexa and Google Home.",
+    "return_window_days": 7
+  },
+  {
+    "product_id": "P1004",
+    "name": "TravelLite Backpack 35L",
+    "category": "Bags",
+    "price": 1799,
+    "stock": 15,
+    "description": "Water-resistant travel backpack with laptop sleeve and anti-theft zippers.",
+    "return_window_days": 10
+  }
+]
